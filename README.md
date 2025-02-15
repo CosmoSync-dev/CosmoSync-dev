@@ -1,13 +1,13 @@
-🌌 Welcome to CosmoSync!
+# Welcome to CosmoSync!
 
-🚀 Revolutionizing the Way We Use Software
+## 🚀 Revolutionizing the Way We Use Software
 
 Founded by Gabriel Roberto Pereira and Luiz Eduardo de Oliveira dos Santos, CosmoSync is a powerhouse of technological innovation. Our mission is simple yet ambitious: to reshape the digital landscape by delivering cutting-edge software solutions that redefine user experience, efficiency, and scalability.
 
 
 ---
 
-🌍 What We Do
+## 🌍 What We Do
 
 At CosmoSync, technology is our playground. We specialize in a broad range of services, including:
 
@@ -24,7 +24,7 @@ At CosmoSync, technology is our playground. We specialize in a broad range of se
 
 ---
 
-🛠 Our Tech Stack
+## 🛠 Our Tech Stack
 
 We thrive on using the most powerful and versatile technologies to build software that scales. Our expertise includes:
 
@@ -41,7 +41,7 @@ We thrive on using the most powerful and versatile technologies to build softwar
 
 ---
 
-🚀 Why Choose CosmoSync?
+## 🚀 Why Choose CosmoSync?
 
 At CosmoSync, we don’t just write code—we craft futuristic, scalable, and high-impact solutions that propel businesses forward. Our team of forward-thinking engineers and developers are dedicated to pushing the boundaries of technology.
 
@@ -56,7 +56,7 @@ At CosmoSync, we don’t just write code—we craft futuristic, scalable, and hi
 
 ---
 
-🌟 Join Us on Our Journey
+## 🌟 Join Us on Our Journey
 
 Be part of the CosmoSync revolution! Whether you're looking for state-of-the-art software solutions or a dedicated team to bring your vision to life, we’re here to make it happen.
 
@@ -67,4 +67,4 @@ Be part of the CosmoSync revolution! Whether you're looking for state-of-the-art
 
 ---
 
-🚀 CosmoSync – Engineering the Future, Today. 🌌
+## 🚀 CosmoSync – Engineering the Future, Today. 🌌
